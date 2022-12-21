@@ -17,5 +17,3 @@ And just open the following file:
 uwu
 
 ![image](https://user-images.githubusercontent.com/95395808/208790952-8152c814-d2d7-4d0e-9f63-585df8dfe03b.png)
-
-https://www.mediafire.com/file/v5jlni28h33zdwf/Lunar_Client_non_premium.rar/file
