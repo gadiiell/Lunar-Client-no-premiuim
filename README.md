@@ -18,4 +18,4 @@ uwu
 
 ![image](https://user-images.githubusercontent.com/95395808/208790952-8152c814-d2d7-4d0e-9f63-585df8dfe03b.png)
 
-LINK OF THE LAUNCHER IN SPANISH UWU https://www.mediafire.com/file/sjek5tbipoh7d29/Lunar_Client_ESPA%25C3%2591OL_UWU.rar/file
+https://www.mediafire.com/file/v5jlni28h33zdwf/Lunar_Client_non_premium.rar/file
