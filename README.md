@@ -1,5 +1,6 @@
 # Lunar Client Cracked xd
-cracked uwu
+# cracked uwu
+# Create a new folder in you desktop and put this files 
 See what you have to do is the following
 Download the Original Lunar Client from their page ----> https://www.lunarclient.com/download/
 
