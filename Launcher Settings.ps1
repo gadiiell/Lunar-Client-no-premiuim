@@ -11,7 +11,7 @@ echo "Lunar Client Cracked - Agent by me - Launcher by  (gadiiell)"
 if ($args[0]) {
   $playerName = $args[0]
 } else {
-  $playerName = Read-Host -Prompt "In game name --->"
+  $playerName = Read-Host -Prompt "In game name  --->"
 }
 
 if (-Not (Test-Path "$env:userprofile\.lunarclient\CrackedAccount.jar")) {
